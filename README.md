@@ -1,4 +1,3 @@
-**MODIFICADO**
 Ejercicio 2025 Despliegue de Aplicaciones Web
 
 Indicaciones:
