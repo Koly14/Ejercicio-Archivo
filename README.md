@@ -23,6 +23,6 @@ Indicaciones:
 	docker run -d -p 80:80 --name ejercicio ejercicio1:v1
 
 - Si el contenedor ha iniciado correctamente deberías de poder acceder a la web abriendo el navegador y escribiendo en la url la siguiente dirección:
-http://localhost:8080
+http://localhost:80
 
 - Crear un docker compose para poder inicializar un contenedor de la imagen hecha.
