@@ -17,7 +17,7 @@ Indicaciones:
 
 	- Una vez creado el dockerfile, crear la imagen de docker ejecutando el siguiente comando en la consola:
 
-	docker build -t ejercicio1:v1
+	docker build -t ejercicio1:v1 .
 
 - Una vez creada la imagen, inicializar el contenedor con el siguiente comando:
 	docker run -d -p 80:80 --name ejercicio ejercicio1:v1
